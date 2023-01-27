@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+I am a Ph.D. Candidate using Python to automate computational chemistry tasks, data processing, feature development and collection.
 <!--
 **luchini18/luchini18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
